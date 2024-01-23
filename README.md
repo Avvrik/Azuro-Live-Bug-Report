@@ -22,7 +22,7 @@ Engage in various test scenarios outlined below, and report your findings. Your 
 ## Reporting Issues 📝
 
 ### How to Report
-Found an issue? Report it in this repository via Issues --> Create New Issue. The questions provided in the form will guide you through the reporting process.
+Found an issue? Report it in this repository via **Issues** --> **New Issue** --> **Get Started**. The questions provided in the form will guide you through the reporting process.
 
 ### 💡 Guidelines
 - **Provide Clear Details**: When reporting an issue, include clear descriptions, steps to reproduce, and any relevant screenshots or logs.
