@@ -19,7 +19,7 @@ body:
     validations:
       required: false
 
-    - type: textarea
+  - type: textarea
     id: wallet-address
     attributes:
       label: Your Wallet Address
