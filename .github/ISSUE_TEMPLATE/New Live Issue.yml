@@ -19,6 +19,15 @@ body:
     validations:
       required: false
 
+    - type: textarea
+    id: wallet-address
+    attributes:
+      label: Your Wallet Address
+      description: Where would you like to get your reward?
+      placeholder: 0xe3h...
+    validations:
+      required: true
+
   - type: dropdown
     id: test-type
     attributes:
@@ -74,11 +83,3 @@ body:
       description: Any other relevant information or context about the test.
       placeholder: Any other details...
 
-  - type: checkboxes
-    id: agreement
-    attributes:
-      label: Code of Conduct and Testing Agreement
-      description: By submitting this issue, you agree to follow our testing guidelines and Code of Conduct.
-      options:
-        - label: I agree to the testing guidelines and Code of Conduct
-          required: true
